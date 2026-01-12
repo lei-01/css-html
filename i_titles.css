@@ -1,6 +1,8 @@
 body
 {background-color: #87CEFA;}
+
 table, tr, td
 {border: 1px solid white; background-color: #2EB9FF; text-align: center;}
+
 table
 {width: 100%;}
