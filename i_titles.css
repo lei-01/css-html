@@ -3,4 +3,4 @@ body
 table, tr, td
 {border: 1px solid white; background-color: #2EB9FF; text-align: center;}
 table
-{width: 100px;}
+{width: 100%;}
