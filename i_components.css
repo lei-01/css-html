@@ -6,3 +6,7 @@ table, tr, td
 
 table
 {width: 100%;}
+
+td a {
+  text-decoration: none;
+}
