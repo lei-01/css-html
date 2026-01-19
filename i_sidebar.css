@@ -2,7 +2,7 @@ body
 {background-color: #87CEFA;}
 
 h2
-{color: #FFFFFF; text-align: center;}
+{color: #FFFFFF; text-align: center; font-size: 30px;}
 
 table, tr, td
 {border: 1px solid white; background-color: #CEE8F0; color: #1E90FF; text-align: center;}
