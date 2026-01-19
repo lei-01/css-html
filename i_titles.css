@@ -14,3 +14,7 @@ td a {
 a {
   font-size: 20px;
 }
+
+td a {
+  text-decoration: none;
+}
